@@ -1,0 +1,6 @@
+C:\Users\Kuso\Desktop\Lenard Skola\kusanovicLenardNebeskoTijelo\kusanovicLenardNebeskoTijelo\obj\Debug\kusanovicLenardNebeskoTijelo.csprojAssemblyReference.cache
+C:\Users\Kuso\Desktop\Lenard Skola\kusanovicLenardNebeskoTijelo\kusanovicLenardNebeskoTijelo\bin\Debug\kusanovicLenardNebeskoTijelo.exe.config
+C:\Users\Kuso\Desktop\Lenard Skola\kusanovicLenardNebeskoTijelo\kusanovicLenardNebeskoTijelo\bin\Debug\kusanovicLenardNebeskoTijelo.exe
+C:\Users\Kuso\Desktop\Lenard Skola\kusanovicLenardNebeskoTijelo\kusanovicLenardNebeskoTijelo\bin\Debug\kusanovicLenardNebeskoTijelo.pdb
+C:\Users\Kuso\Desktop\Lenard Skola\kusanovicLenardNebeskoTijelo\kusanovicLenardNebeskoTijelo\obj\Debug\kusanovicLenardNebeskoTijelo.exe
+C:\Users\Kuso\Desktop\Lenard Skola\kusanovicLenardNebeskoTijelo\kusanovicLenardNebeskoTijelo\obj\Debug\kusanovicLenardNebeskoTijelo.pdb
